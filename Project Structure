@@ -1,6 +1,0 @@
-## Project Structure
-
-- **/captures/**: This directory contains the raw Wireshark capture files (`.pcapng`) that were used for analysis. Each file is named according to the type of traffic captured (e.g., `web_browsing.pcapng`, `file_transfer.pcapng`).
-- **/report/**: This directory includes the detailed analysis report (`Network_Analysis_Report.pdf`), which covers the findings from the captured traffic, including protocol analysis and identification of potential security threats.
-- **/screenshots/**: Contains visual aids, such as screenshots of Wireshark’s interface, graphs, and detailed packet views that are referenced in the report.
-- **README.md**: The main documentation file that explains the purpose of the project, tools used, how to run the analysis, and how to interpret the results.
