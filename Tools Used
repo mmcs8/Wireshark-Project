@@ -1,0 +1,5 @@
+## Tools Used
+
+- **Wireshark**: The primary tool used for capturing and analyzing network traffic. Wireshark allows for in-depth inspection of protocols and provides powerful filtering and visualization tools.
+- **Operating System**: The project was conducted on [insert your OS, e.g., Windows 10, Ubuntu 20.04].
+- **Browser/Applications**: Various applications were used to generate network traffic, including a web browser (e.g., Chrome), file transfer software, and chat/VoIP applications.
